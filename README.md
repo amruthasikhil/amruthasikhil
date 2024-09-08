@@ -6,9 +6,9 @@
 
 Fun Facts About Me:
 
-🎨 I’m a portrait artist who loves creating custom art.
-🚀 I’ve completed over 50 projects, mainly in web and mobile development.
-📚 I simplify complex technical concepts into easy content.
+                🎨 I’m a portrait artist who loves creating custom art.
+                🚀 I’ve completed over 50 projects, mainly in web and mobile development.
+                📚 I simplify complex technical concepts into easy content.
 
 
 
