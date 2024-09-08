@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Amrutha 
-- 👀 I’m interested in web development and mobile app development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+👋 Hi, I'm Amrutha, a Python Full Stack Developer with experience in software development, content creation, and UI/UX design. I've worked on web and mobile apps using Python, JavaScript, HTML, and CSS.
 
-<!---
-amruthasikhil/amruthasikhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently, I'm interning in Python Full Stack Development, focusing on React to build responsive web apps.
+
+🤝 With my background in software training and content development, I'm excited to transition into a full-time development role. Let's collaborate and create something amazing together!
+
+Fun Facts About Me:
+
+🎨 I’m a portrait artist who loves creating custom art.
+🚀 I’ve completed over 50 projects, mainly in web and mobile development.
+📚 I simplify complex technical concepts into easy content.
+
+
+
