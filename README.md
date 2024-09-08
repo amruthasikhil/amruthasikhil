@@ -4,10 +4,10 @@
 
 🤝 With my background in software training and content development, I'm excited to transition into a full-time development role. Let's collaborate and create something amazing together!
 
-Fun Facts About Me:
+ More about Me:
 
                 🎨 I’m a portrait artist who loves creating custom art.
-                🚀 I’ve completed over 50 projects, mainly in web and mobile development.
+                🚀 I’ve completed over 35 projects, mainly in web and mobile development.
                 📚 I simplify complex technical concepts into easy content.
 
 
