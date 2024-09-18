@@ -1,5 +1,5 @@
 
-<div style="background-color:white; border:2px solid grey"> 👋 Hi, I'm Amrutha, a Python Full Stack Developer with experience in software development, content creation, and UI/UX design. I've worked on web and mobile apps using Python, JavaScript, HTML, and CSS.     
+<div style="background-color:white; border:2px solid grey"> 👋 Hi, I'm Amrutha, a Python Full Stack Developer with experience in software development, content creation, and UI/UX design. I've worked on web and mobile apps using Python, JavaScript, HTML, and CSS.  </div>   
 
 🌱 Currently, I'm interning in Python Full Stack Development, focusing on React to build responsive web apps.
 
