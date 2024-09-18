@@ -1,5 +1,5 @@
 
-<h3> 👋 Hi, I'm Amrutha, a Python Full Stack Developer with experience in software development, content creation, and UI/UX design. I've worked on web and mobile apps using Python, JavaScript, HTML, and CSS.    
+<h4> 👋 Hi, I'm Amrutha, a Python Full Stack Developer with experience in software development, content creation, and UI/UX design. I've worked on web and mobile apps using Python, JavaScript, HTML, and CSS.    
 
 🌱 Currently, I'm interning in Python Full Stack Development, focusing on React to build responsive web apps.
 
@@ -9,9 +9,9 @@
 🎨 I’m a portrait artist who loves creating custom art.
 🚀 I’ve completed over 35 projects, mainly in web and mobile development.
 📚 I simplify complex technical concepts into easy content. 
-</h3>
+</h4>
 
- <h3>Technologies:</h3>
+ <h4>Technologies:</h4>
 <p>
  
 
