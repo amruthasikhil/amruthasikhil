@@ -1,6 +1,6 @@
 👋 Hi, I'm Amrutha, a Python Full Stack Developer with experience in software development, content creation, and UI/UX design. I've worked on web and mobile apps using Python, JavaScript, HTML, and CSS.
                            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
 
 🌱 Currently, I'm interning in Python Full Stack Development, focusing on React to build responsive web apps.
