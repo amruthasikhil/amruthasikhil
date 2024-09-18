@@ -9,7 +9,8 @@
 
                 🎨 I’m a portrait artist who loves creating custom art.
                 🚀 I’ve completed over 35 projects, mainly in web and mobile development.
-                📚 I simplify complex technical concepts into easy content. </div>
+                📚 I simplify complex technical concepts into easy content. 
+</div>
 
 
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50 height=50 />
