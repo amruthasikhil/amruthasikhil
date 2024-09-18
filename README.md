@@ -11,7 +11,7 @@
                 📚 I simplify complex technical concepts into easy content.
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=100 height=100 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50 height=50 />
           
 
 
