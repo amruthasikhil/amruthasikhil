@@ -1,3 +1,4 @@
+**`Code By Amrutha (Developer/Designer/Portrait artist)`**
 
 <h4> 👋 Hi, I'm Amrutha, a Python Full Stack Developer with experience in software development, content creation, and UI/UX design. I've worked on web and mobile apps using Python, JavaScript, HTML, and CSS.    
 
