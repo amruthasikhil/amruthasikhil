@@ -12,10 +12,10 @@
                 📚 I simplify complex technical concepts into easy content. 
 </div>
 
-
+ <h3>Technologies:</h3>
 <p>
  
- <h3>Technologies:</h3>
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50 height=50 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50 height=50  />
