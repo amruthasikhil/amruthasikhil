@@ -16,7 +16,7 @@ My expertise is in designing, deploying, and optimizing robust systems using **D
 
 <h2>💡🔍 Looking For Opportunity 💼</h2>
 <p>I am actively seeking a full-time **Back-End Developer** or **Full-Stack Engineer** role in the **Irish market** where I can leverage my expertise in **Python** frameworks and complex system design.</p>
-https://portfolioofamrutha.netlify.app/
+Kindly check my website 👉 https://portfolioofamrutha.netlify.app/
 <hr>
 
 <h2>Technologies</h2>
