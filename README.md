@@ -1,16 +1,19 @@
 **`Code By Amrutha (Developer/Designer/Portrait artist)`**
 
 <h6> 
-👋 Hi, I'm Amrutha, a Python Full Stack Developer with experience in software development, content creation, and UI/UX design. I've worked on web and mobile apps using Python, JavaScript, HTML, and CSS.    
+👋 Hi, I'm Amrutha Thalappatta Chalil, a **Python Backend Engineer** based in Ireland.
 
-🌱 Currently, I'm interning in Python Full Stack Development, focusing on React to build responsive web apps.
+My expertise is in designing, deploying, and optimizing robust systems using **Django and Flask**, with a specialization in **REST API architecture** and **MySQL** performance. I'm passionate about clean code and ensuring technical process maturity.
 
-🤝 With my background in software training and content development, I'm excited to transition into a full-time development role. Let's collaborate and create something amazing together!
+**🚀 Key Strengths & Experience:**
+- **Backend Core:** Proven ability to build, secure, and scale complex APIs (See **Pinned Repos** for examples).
+- **Process & Quality:** 3.5 years of combined experience as a **Junior Development Lead** and **Technical Content Specialist**—giving me a unique focus on standardized **Git workflows** and clear **technical documentation**.
+- **Project Delivery:** Successfully delivered over 35 web and mobile backend projects.
+- **Immediate Eligibility:** I am a **Stamp 1G Holder in Ireland**, available to join a team immediately (no work permit required).
 
- More about Me:
- 🎨 I’m a portrait artist who loves creating custom art.
- 🚀 I’ve completed over 35 projects, mainly in web and mobile development.
- 📚 I simplify complex technical concepts into easy content. 
+**💡 Looking for:** Full-time, Remote/Hybrid Python Backend Engineering roles in the Irish market.
+
+---
 </h6>
 
  <h4>Technologies:</h4>
