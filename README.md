@@ -14,7 +14,7 @@ My expertise is in designing, deploying, and optimizing robust systems using **D
 <li><strong>Immediate Eligibility:</strong> I am a <strong>Stamp 1G Holder in Ireland</strong>, available to join a team immediately (no work permit required).</li>
 </ul>
 
-<h2>💡 Looking For</h2>
+<h2>💡🪟🔍📜 Looking For</h2>
 <p>Full-time, Remote/Hybrid Python Backend Engineering roles in the Irish market.</p>
 
 <hr>
