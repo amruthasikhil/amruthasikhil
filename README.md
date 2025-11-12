@@ -3,7 +3,7 @@
 <p>
 👋 Hi, I'm Amrutha Thalappatta Chalil, a Python Backend Engineer based in Ireland.
 
-My expertise is in designing, deploying, and optimizing robust systems using **Django and Flask**, with a specialization in **REST API architecture** and **MySQL** performance. I'm passionate about clean code and ensuring technical process maturity.
+My expertise is in designing, deploying, and optimizing robust systems using <strong>Django and Flask<strong>, with a specialization in **REST API architecture** and **MySQL** performance. I'm passionate about clean code and ensuring technical process maturity.
 </p>
 
 <h2>🚀 Key Strengths & Experience</h2>
